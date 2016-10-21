@@ -18,3 +18,8 @@ div.navbar {
   color: white;
   padding-left: 60px;
 }
+
+img.miners {
+    margin: 10px;
+    padding: 20px;
+} 
