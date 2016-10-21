@@ -1,10 +1,15 @@
+@font-face {
+    font-family: roboto-mono_regular;
+    src: url(roboto-mono_regular.ttf);
+}
+
 div.navbar {
   box-shadow: 0px 0px 10px #888888;
   background-color: #2196F3;
   margin: -10px;
   font-size: 20px;
   padding: 20px;
-  font-family: Roboto;
+  font-family: roboto-mono_regular;
   color: white;
   padding-left: 60px;
 }
