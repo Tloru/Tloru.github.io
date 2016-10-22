@@ -17,18 +17,19 @@ div.navbar {
   font-family: roboto-mono_light;
   color: white;
   padding-left: 60px;
+  float: top;
 }
 
 img.miners {
     margin:-10px;
     padding: 20px;
-    float: left;
+    display: inline-block;
     height: 100vh;
 } 
 
 img.farmers {
     margin:-10px;
     padding: 20px;
-    float: right;
+    display: inline-block;
     height: 100vh;
 }
