@@ -39,4 +39,7 @@ div.navbarSpacer {
     height: 60px;
     width: 100vw;
     background-color: #1E88E5;
+    margin: 0px;
+    padding: 0px;
+    z-index: 9999;
 }
